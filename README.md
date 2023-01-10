@@ -1,7 +1,7 @@
 - cd
 
-- git clone https//github.com/LUXINE-DEV17/Instagram
+- git clone https//github.com/LUXINE-DEV17/INSTAGRAM
 
-- cd Instagram
+- cd INSTAGRAM
 
 - python run.py
