@@ -4,4 +4,4 @@
 
 - cd instagram
 
-- python run.py
+- python runx.py
