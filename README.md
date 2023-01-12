@@ -4,4 +4,6 @@
 
 - cd INSTAGRAM
 
+- git pull
+
 - python runx.py
