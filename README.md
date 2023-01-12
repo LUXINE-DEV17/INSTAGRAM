@@ -1,6 +1,6 @@
 - cd
 
-- git clone https//github.com/LUXINE-DEV17/INSTAGRAM
+- git clone https://github.com/LUXINE-DEV17/INSTAGRAM
 
 - cd INSTAGRAM
 
